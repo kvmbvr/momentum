@@ -1,1 +1,1 @@
-Deploy: https://momentum-kvmbvr.netlify.app/
+Deploy: https://kvmbvr-momentum.netlify.app/
